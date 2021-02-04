@@ -42,6 +42,7 @@ A avaliação será feita da seguinte forma:
 Requisitos Obrigatórios:
 * Operações acima funcionando sem erros
 * Código válido, estruturado e organizado para que possamos testar sua aplicação
+* Será necessário a criação de uma forma de teste da API(Postman, Swagger, etc...)
 
 Dicas:
 * Tenha em mente que o seu avaliador irá executar o código antes de falar com você;
