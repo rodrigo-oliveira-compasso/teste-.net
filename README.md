@@ -42,11 +42,11 @@ A avaliação será feita da seguinte forma:
 Requisitos Obrigatórios:
 * Operações acima funcionando sem erros
 * Código válido, estruturado e organizado para que possamos testar sua aplicação
-* Será necessário a criação de uma forma de teste da API(Postman, Swagger, etc...)
+* Será necessário a criação de uma forma de teste da API(Coleção no Postman ou um Swagger)
 
 Dicas:
 * Tenha em mente que o seu avaliador irá executar o código antes de falar com você;
 * Procure fazer uma entrega simples mas consistente, usando a experiência e conhecimento adquiridos durante sua carreira;
 * Não se preocupe em entregar algo extremamente completo ou rebuscado, não vamos usar este código em produção;
 * Tudo será avaliado, dê o seu melhor!
-* Evite fazer Pull Request ou Fork deste repositório.
+* Não Faça Pull Request ou Fork deste repositório.
